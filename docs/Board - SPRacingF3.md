@@ -1,18 +1,18 @@
 # Board - Seriously Pro SP Racing F3 (Acro/Deluxe)
 
-The Seriously Pro Racing F3 board (SPRacingF3) is the first board designed specifically for Cleanflight.
+Seriously Pro Racing F3 보드 (SPRacingF3)는 Cleanflight를 위해 특별히 설계된 최초의 보드입니다.
 
-Purchasing boards directly from SeriouslyPro / SP Racing and official retailers helps fund Cleanflight development, it's the reason the Seriously Pro boards exist!  Official retailers are always listed on the SeriouslyPro.com website.
+SeriouslyPro / SP 레이싱 및 공식 판매점에서 보드를 직접 구매하면 Cleanflight 개발에 자금을 지원할 수 있으므로 이것이 Seriously Pro 보드가 존재하는 이유입니다! 공식 판매점은 항상 SeriouslyPro.com 웹 사이트에 있습니다.
 
-Full details available on the website, here:
+웹 사이트에서 전체 세부 정보를 볼 수 있습니다.
 
 http://seriouslypro.com/spracingf3
 
-## Hardware Features
+## 하드웨어 특징
 
-* No compromise I/O. Use all the features all the time; e.g. Connect your OSD + SmartPort + SBus + GPS + LED Strip + Battery Monitoring + Sonar + 8 motors - all at the same time!
+* 주변기기 지원 IO, ( ex. OSD + SmartPort + SBus + GPS + LED 스트립 + 베터리 모니터 + 초음파 센서 + 8 모터 )
 * On-board high-capacity black box flight log recorder - optimize your tuning and see the results of your setup without guesswork. (Acro and Deluxe)
-* Next-generation STM32 F3 processor with hardware floating point unit for efficient flight calculations and faster ARM-Cortex M4 core.
+* 하드웨어 플로팅 지점을 갖추고 효율적인 비행 계산이 가능한 STM32 F3 프로세서 사용
 * Stackable design - perfect for integrating with OSDs and power distribution boards.
 * 16 PWM I/O lines for ESCs, Servos and legacy receivers. 8 available on standard pin headers. 8 via side mounted connectors.
 * Supports SBus, SumH, SumD, Spektrum1024/2048, XBus, PPM, PWM receivers. No external inverters required (built-in).
@@ -39,7 +39,7 @@ http://seriouslypro.com/spracingf3
 
 ## Pinouts
 
-Full pinout details are available in the manual, here:
+자세한 내용은 다음과 같은 세부 정보를 참조하십시오.
 
 http://seriouslypro.com/spracingf3#manual
 
